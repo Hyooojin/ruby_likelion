@@ -1,0 +1,1 @@
+print ["hambuger", "sandwitch", "rice", "water"].sample
